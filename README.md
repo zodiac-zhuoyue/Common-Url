@@ -5,3 +5,5 @@
 [Markdown 语法的简要规则](http://www.jianshu.com/p/1e402922ee32)
 
 [一套css3动画效果库](https://www.awesomes.cn/repo/daneden/animate-css)
+
+[介绍 GitHub 的恶搞文]https://vjudge1.github.io/2015/08/26/github.html)

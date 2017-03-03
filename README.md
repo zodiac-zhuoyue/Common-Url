@@ -4,4 +4,4 @@
 
 [一套css3动画效果库](https://www.awesomes.cn/repo/daneden/animate-css)
 
-[在线测试正则表达式]（http://tool.lu/regex/）
+[在线测试正则表达式](http://tool.lu/regex/)

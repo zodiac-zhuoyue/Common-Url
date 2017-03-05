@@ -6,5 +6,7 @@
 
 [一套css3动画效果库](https://www.awesomes.cn/repo/daneden/animate-css)
 
+[在线测试正则表达式](http://tool.lu/regex/)
+
 [介绍 GitHub 的恶搞文](https://vjudge1.github.io/2015/08/26/github.html)
 

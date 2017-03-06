@@ -10,3 +10,4 @@
 
 [介绍 GitHub 的恶搞文](https://vjudge1.github.io/2015/08/26/github.html)
 
+[anki](https://tieba.baidu.com/p/4550177850)

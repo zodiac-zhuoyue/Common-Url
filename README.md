@@ -10,4 +10,4 @@
 
 [介绍 GitHub 的恶搞文](https://vjudge1.github.io/2015/08/26/github.html)
 
-[github中文使用方法]（http://www.cnblogs.com/xirongliu/p/4589834.html）
+[github中文使用方法](http://www.cnblogs.com/xirongliu/p/4589834.html)

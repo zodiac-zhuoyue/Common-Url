@@ -11,3 +11,5 @@
 [介绍 GitHub 的恶搞文](https://vjudge1.github.io/2015/08/26/github.html)
 
 [MAC版SVN工具](http://bbs.feng.com/read-htm-tid-7733418.html)
+
+[mysql之触发器trigger](http://www.cnblogs.com/zzwlovegfj/archive/2012/07/04/2576989.html)
